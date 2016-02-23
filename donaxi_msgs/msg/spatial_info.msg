@@ -1,0 +1,5 @@
+geometry_msgs/Vector3 accel
+float64 angleChange
+geometry_msgs/Vector3 compass
+float64 timeMeasure
+float64 timePassed
